@@ -1,6 +1,7 @@
 ## Ofa 👋
-Electrical Engineering
-Interested in Embedded Systems
+Electrical Engineering.
+
+Interested in Embedded Systems.
 <!--
 **Monkeith/Monkeith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
